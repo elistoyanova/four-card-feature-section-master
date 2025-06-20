@@ -120,6 +120,21 @@ header p {
 }
 
 @media (min-width: 1250px) {
+
+  h1{
+    font-size: 2.2rem;
+  }
+
+  h2 {
+    font-size: 2.15rem;
+  }
+
+  header p {
+    padding-inline: 40px;
+    max-width: 600px;
+  }
+
+
   .cards {
     max-width: 1440px;
     display: grid;
